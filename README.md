@@ -57,7 +57,7 @@ def max_marks(marks):
 
 ```
 ## Sample Input and Output
-i)![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/820da5a5-e9e6-42b5-a8ce-00e42f91b726)
+i)![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/26ea0622-4665-4ba7-b288-7ab77e71cdaa)
 
 ii)![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/ee380cca-3873-4da0-af2d-34d092ce4c32)
 
