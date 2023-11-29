@@ -57,16 +57,21 @@ def max_marks(marks):
 
 ```
 ## Sample Input and Output
-i)![Alt text](<Screenshot 2023-11-29 141129.png>)
+i)![Screenshot 2023-11-29 141129](https://github.com/Ajith1413/FindMaximum/assets/139842524/fc7bcc96-24fc-4f52-9355-99d81880b1d7)
 
-ii)![Alt text](<Screenshot 2023-11-29 141348.png>)
+ii)![Screenshot 2023-11-29 141348](https://github.com/Ajith1413/FindMaximum/assets/139842524/b158d3b4-6fe8-432a-8cd6-feb2c589908a)
 
-iii)![Alt text](<Screenshot 2023-11-29 141622.png>)
+
+iii)![Screenshot 2023-11-29 141622](https://github.com/Ajith1413/FindMaximum/assets/139842524/5c601ffe-3fb9-4965-9dde-6a2deddf608f)
+
 
 ## Output:
-![Alt text](<Screenshot 2023-11-29 140952.png>)
-![Alt text](<Screenshot 2023-11-29 141404.png>)
-![Alt text](<Screenshot 2023-11-29 141646.png>)
+![Screenshot 2023-11-29 140952](https://github.com/Ajith1413/FindMaximum/assets/139842524/ffa72f50-4769-40ea-94b5-b16add15cecb)
+
+![Screenshot 2023-11-29 141404](https://github.com/Ajith1413/FindMaximum/assets/139842524/6949c1df-7aeb-4643-a7e9-ed454e13b5b1)
+
+![Screenshot 2023-11-29 141646](https://github.com/Ajith1413/FindMaximum/assets/139842524/7856675e-6809-4e75-887a-d416325fbfc8)
+
 
 !## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
