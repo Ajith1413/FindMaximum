@@ -57,25 +57,16 @@ def max_marks(marks):
 
 ```
 ## Sample Input and Output
-i)![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/26ea0622-4665-4ba7-b288-7ab77e71cdaa)
+i)![Alt text](<Screenshot 2023-11-29 141129.png>)
 
-ii)![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/ee380cca-3873-4da0-af2d-34d092ce4c32)
+ii)![Alt text](<Screenshot 2023-11-29 141348.png>)
 
-iii)![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/29f51b72-4a48-4868-a1ae-f45b235fb78d)
+iii)![Alt text](<Screenshot 2023-11-29 141622.png>)
 
 ## Output:
+![Alt text](<Screenshot 2023-11-29 140952.png>)
+![Alt text](<Screenshot 2023-11-29 141404.png>)
+![Alt text](<Screenshot 2023-11-29 141646.png>)
 
-![output](./img/max_marks1.jpg) 
-i)	# To find the maximum of marks using the list method sort.
-![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/9956a73d-9772-44c7-a1b4-613b69ca2927)
-
-
-ii)	# To find the maximum marks using the list method max().
-![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/2a029036-df88-496e-95a7-0e738adf9d7b)
-
-
-iii) # To find the maximum marks without using builtin functions.
-![image](https://github.com/Ajith1413/FindMaximum/assets/139842524/98c2a8fe-ba17-48d2-acde-28f35ace4745)
-
-## Result:
+!## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
