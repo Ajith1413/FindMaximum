@@ -73,5 +73,5 @@ iii)![Screenshot 2023-11-29 141622](https://github.com/Ajith1413/FindMaximum/ass
 ![Screenshot 2023-11-29 141646](https://github.com/Ajith1413/FindMaximum/assets/139842524/7856675e-6809-4e75-887a-d416325fbfc8)
 
 
-!## Result:
+## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
